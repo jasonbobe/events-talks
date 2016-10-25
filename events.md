@@ -25,12 +25,13 @@ Event | Location | Date | Role
 [Mozilla Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2016) | Washington DC | June 3, 2016 | Collaborator
 [White House]() | Washington DC | June 28-29, 2016 | Invited contributor
 [Nairobi Work Week]() | Nairobi, Kenya | July 26 - August 1, 2016 | Speaker & Participant
-[Stanford MedX]() | Palo Alto, CA | Sept 2016 | Invited speaker
-[NE Big Data Hub]() | Philadelphia, PA | Oct 2016 | Invited speaker
-[EO Nerve]() | Boston, MA | Oct 2016 | Invited speaker
-[White House Frontiers Conference]() | Pittsburgh, PA | Oct 2016 | Invited Guest
-[Sage BioNetworks]() | Seattle, WA | Oct 2016 | Speaker
-[Mozfest]() | London UK | Nov 2016 | Speaker
+[Stanford MedX]() | Palo Alto, CA | Sept 17 2016 | Invited speaker
+[NE Big Data Hub Workshop]() | Philadelphia, PA | Sep 29 2016 | Invited speaker
+[EO Nerve]() | Boston, MA | Sep 30-Oct 1 2016 | Invited speaker
+[White House Frontiers Conference]() | Pittsburgh, PA | Oct 13-14 2016 | Invited Guest
+[Sage BioNetworks]() | Seattle, WA | Oct 18-20 2016 | Speaker
+[Mozfest]() | London UK | Oct 27-30 2016 | Speaker
 [Partnering for Cures]() | NYC | Nov 2016 | Invited Speaker
-[Paris]() | Paris | Dec 2016 | Invited Speaker
+[Deinard Memorial Lecture Series on Law & Medicine: “How Patients are Creating the Future of Medicine: From Citizen Science to Precision Medicine.”]() | Minnesota | Dec 6 2016 | Invited Speaker
+[Paris TBD]() | Paris | Dec 2016 | Invited Speaker
 
