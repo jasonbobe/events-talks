@@ -34,4 +34,4 @@ Event | Location | Date | Role
 [Partnering for Cures]() | NYC | Nov 2016 | Invited Speaker
 [Deinard Memorial Lecture Series on Law & Medicine: “How Patients are Creating the Future of Medicine: From Citizen Science to Precision Medicine.”]() | Minnesota | Dec 6 2016 | Invited Speaker
 [Paris TBD]() | Paris | Dec 2016 | Invited Speaker
-
+Boston CReM Seminar | Boston | March 2017 | Invited Speaker
