@@ -1,10 +1,16 @@
 ###Jason Bobe, Icahn Institute at Mount Sinai
 ###[@jasonbobe](https://twitter.com/jasonbobe)
 
+
 #### EVENTS & TALKS
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
+[Precision Medicine Initiative Announcement]() | E Wing, White House, Washington DC | January 30, 2015 | Invited Guest
+[White House Precision Medicine & Privacy Roundtable]() | Washington DC | March 9-10, 2015 | Invited Contributor
+[Precision Medicine Initiative Workshop]() | Countway Library, Boston MA| June 25, 2015 | Invited Contributor
+[White House Champions of Change]() | Washington DC | July 8, 2015 | Invited Guest
+[GET Global]() | Vienna, Austria | September 17-19, 2015 | Co-Organizer
 [ONC Consumer Health Summit](http://www.capconcorp.com/meeting/2014/Consumer-Health-IT-Summit/) | Washington DC | October 1, 2015 | Invited speaker
 [Mozilla Festival](https://mozillafestival.org/) | London, UK | November 4-7, 2015 | Contributor
 [AMIA Annual Symposium](https://www.amia.org/amia2015) | San Francisco, CA | November 17, 2015 | Invited speaker 
