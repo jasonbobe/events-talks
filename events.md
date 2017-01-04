@@ -6,7 +6,8 @@
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-Boston CReM Seminar | Boston | March 2017 | Invited Speaker
+[Boston CReM Seminar](http://www.bu.edu/dbin/stemcells/seminar.php) | Boston | March 7, 2017 | Invited Speaker
+[Biotech Futures: Privacy in the Era of Personal Genomics]Data & Society](https://datasociety.net/) | Data & Society, NYC | January 19, 2017 | Invited Speaker 
 [Deinard Memorial Lecture Series on Law & Medicine: “How Patients are Creating the Future of Medicine: From Citizen Science to Precision Medicine.”]() | Minnesota | Dec 6 2016 | Invited Speaker
 [Partnering for Cures]() | NYC | Nov 2016 | Invited Speaker
 [Mozfest]() | London UK | Oct 27-30 2016 | Speaker
