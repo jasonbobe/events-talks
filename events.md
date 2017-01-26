@@ -6,6 +6,7 @@
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
+[Sage Assembly](http://sageassembly.org/) | Seattle | April 20-22, 2017 | Invited participant
 [Boston CReM Seminar](http://www.bu.edu/dbin/stemcells/seminar.php) | Boston | March 7, 2017 | Invited Speaker
 [Biotech Futures: Privacy in the Era of Personal Genomics](https://datasociety.net/) | Data & Society, NYC | January 19, 2017 | Invited Speaker 
 [PBS documentary interview with Ella]() | NYC | Dec 12, 2016
