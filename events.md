@@ -43,3 +43,4 @@ Event | Location | Date | Role
 [Precision Medicine Initiative Workshop]() | Countway Library, Boston MA| June 25, 2015 | Invited Contributor
 [White House Precision Medicine & Privacy Roundtable]() | Washington DC | March 9-10, 2015 | Invited Contributor
 [Precision Medicine Initiative Announcement]() | E Wing, White House, Washington DC | January 30, 2015 | Invited Guest
+[Quantified Self Public Health Meeting]() | UCSD San Diego, CA | 2014 | Invited Speaker [video](https://vimeo.com/95938229)
