@@ -7,9 +7,11 @@
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
 [Sage Assembly](http://sageassembly.org/) | Seattle | April 20-22, 2017 | Invited participant
-[Boston CReM Seminar](http://www.bu.edu/dbin/stemcells/seminar.php) | Boston | March 7, 2017 | Invited Speaker
+[Boston CReM Seminar](http://www.bu.edu/dbin/stemcells/seminar.php) | Boston | March 14, 2017 | Invited Speaker
+Genetic Alliance 30th Anniversary Meeting | Bethesda | March 9-10 | Facilitator
+Return of Results in the NIH All of Us Program [video, starts at 4:09:37](https://videocast.nih.gov/summary.asp?Live=21883&bhcp=1) | Bethesda | March 6-7, 2017 | Invited Speaker
 [Biotech Futures: Privacy in the Era of Personal Genomics](https://datasociety.net/) | Data & Society, NYC | January 19, 2017 | Invited Speaker 
-[PBS documentary interview with Ella]() | NYC | Dec 12, 2016
+PBS documentary interview with Ella | NYC | Dec 12, 2016
 [Deinard Memorial Lecture Series on Law & Medicine: “How Patients are Creating the Future of Medicine: From Citizen Science to Precision Medicine.”]() | Minnesota | Dec 6 2016 | Invited Speaker
 [Partnering for Cures]() | NYC | Nov 2016 | Invited Speaker
 [Mozfest]() | London UK | Oct 27-30 2016 | Speaker
