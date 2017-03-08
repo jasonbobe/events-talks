@@ -12,8 +12,7 @@ Genetic Alliance 30th Anniversary Meeting | Bethesda | March 9-10 | Facilitator
 Return of Results in the NIH All of Us Program [video (my talk starts at 4:09:37)](https://videocast.nih.gov/summary.asp?Live=21883&bhcp=1) | Bethesda | March 6-7, 2017 | Invited Speaker
 [Biotech Futures: Privacy in the Era of Personal Genomics](https://datasociety.net/) | Data & Society, NYC | January 19, 2017 | Invited Speaker 
 PBS documentary interview with Ella | NYC | Dec 12, 2016
-[Deinard Memorial Lecture Series on Law & Medicine](https://consortium.umn.edu/lecture/how-patients-are-creating-medicine-s-future-citizen-science-precision-medicine): 
-<br />“How Patients are Creating the Future of Medicine: From Citizen Science to Precision Medicine.” <br /> [Video (my talk starts @ 13 min mark)](https://www.youtube.com/watch?v=-s-O4FaaKRU) See also my essay, ["Participant Power"](http://blogs.harvard.edu/billofhealth/2017/03/06/participant-power/)| Minnesota | Dec 6 2016 | Invited Speaker
+[Deinard Memorial Lecture Series on Law & Medicine](https://consortium.umn.edu/lecture/how-patients-are-creating-medicine-s-future-citizen-science-precision-medicine): "How Patients are Creating the Future of Medicine: From Citizen Science to Precision Medicine." [Video (my talk starts @ 13 min mark)](https://www.youtube.com/watch?v=-s-O4FaaKRU) See also my essay, ["Participant Power"](http://blogs.harvard.edu/billofhealth/2017/03/06/participant-power/)| Minnesota | Dec 6 2016 | Invited Speaker
 [Partnering for Cures]() | NYC | Nov 2016 | Invited Speaker
 [Mozfest]() | London UK | Oct 27-30 2016 | Speaker
 [Sage BioNetworks]() | Seattle, WA | Oct 18-20 2016 | Speaker
