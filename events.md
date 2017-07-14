@@ -1,6 +1,6 @@
 ###Jason Bobe  
 Associate Professor, Icahn Institute at Mount Sinai  
-Executive Director, Open Humans Foundation  
+Executive Director Emeritus, Open Humans Foundation  
 co-Founder, DIYbio.org
 ###[@jasonbobe](https://twitter.com/jasonbobe)
 
@@ -9,14 +9,16 @@ co-Founder, DIYbio.org
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
+Biosummit | Cambridge MA | September 2017 | TBD
+Partnering for Cures. Panel: "Conquering Clinical Research: Engagement Today for Treatments Tomorrow" | Boston | July 12, 2017 | Invited moderator
+Learning from Patient Experience: New Frontiers in Patient-Partnered Research | Broad Institute, Cambridge MA | June 12-13 20-22, 2017 | Invited speaker
 [Sage Assembly](http://sageassembly.org/) | Seattle | April 20-22, 2017 | Invited participant
-[Boston CReM Seminar](http://www.bu.edu/dbin/stemcells/seminar.php) | Boston | March 14, 2017 | Invited Speaker
 Genetic Alliance 30th Anniversary Meeting | Bethesda | March 9-10 | Facilitator
 Return of Results in the NIH All of Us Program [video (my talk starts at 4:09:37)](https://videocast.nih.gov/summary.asp?Live=21883&bhcp=1) | Bethesda | March 6-7, 2017 | Invited Speaker
 [Biotech Futures: Privacy in the Era of Personal Genomics](https://datasociety.net/) | Data & Society, NYC | January 19, 2017 | Invited Speaker 
 PBS documentary interview with Ella | NYC | Dec 12, 2016
 [Deinard Memorial Lecture Series on Law & Medicine](https://consortium.umn.edu/lecture/how-patients-are-creating-medicine-s-future-citizen-science-precision-medicine): "How Patients are Creating the Future of Medicine: From Citizen Science to Precision Medicine." [Video (my talk starts @ 13 min mark)](https://www.youtube.com/watch?v=-s-O4FaaKRU) See also my essay, ["Participant Power"](http://blogs.harvard.edu/billofhealth/2017/03/06/participant-power/)| Minnesota | Dec 6 2016 | Invited Speaker
-[Partnering for Cures]() | NYC | Nov 2016 | Invited Speaker
+Partnering for Cures. Panel: R&D Remodel: Building Trust and Changing the Culture of Research  [Video](https://www.youtube.com/watch?v=nU3IgbQ0nRA) | NYC | Nov 2016 | Invited Speaker
 [Mozfest]() | London UK | Oct 27-30 2016 | Speaker
 [Sage BioNetworks]() | Seattle, WA | Oct 18-20 2016 | Speaker
 [White House Frontiers Conference]() | Pittsburgh, PA | Oct 13-14 2016 | Invited Guest
