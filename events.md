@@ -9,9 +9,10 @@ co-Founder, DIYbio.org
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-[Biosummit](https://www.biosummit.org/) | Cambridge MA | September 2017 | TBD
+[Biosummit](https://www.biosummit.org/) | Cambridge MA | September 22-24, 2017 | TBD
 Partnering for Cures. Panel: "Conquering Clinical Research: Engagement Today for Treatments Tomorrow" | Boston | July 12, 2017 | Invited moderator
 Learning from Patient Experience: New Frontiers in Patient-Partnered Research | Broad Institute, Cambridge MA | June 12-13 20-22, 2017 | Invited speaker
+[GP-Write](http://engineeringbiologycenter.org/) | NYGC NYC, NY | May 9-10, 2017 | Invited speaker
 [Sage Assembly](http://sageassembly.org/) | Seattle | April 20-22, 2017 | Invited participant
 Genetic Alliance 30th Anniversary Meeting | Bethesda | March 9-10 | Facilitator
 Return of Results in the NIH All of Us Program [video (my talk starts at 4:09:37)](https://videocast.nih.gov/summary.asp?Live=21883&bhcp=1) | Bethesda | March 6-7, 2017 | Invited Speaker
