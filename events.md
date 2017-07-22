@@ -9,7 +9,7 @@ co-Founder, DIYbio.org
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-[Biosummit](https://www.biosummit.org/) | Cambridge MA | September 22-24, 2017 | TBD
+[Biosummit](https://www.biosummit.org/) | Cambridge MA | September 22-24, 2017 | co-organizer, speaker
 Partnering for Cures. Panel: "Conquering Clinical Research: Engagement Today for Treatments Tomorrow" [video](http://www.partneringforcures.org/boston/panel/7175) | Boston | July 12, 2017 | Invited moderator
 Learning from Patient Experience: New Frontiers in Patient-Partnered Research | Broad Institute, Cambridge MA | June 12-13 20-22, 2017 | Invited speaker
 [GP-Write](http://engineeringbiologycenter.org/) | NYGC NYC, NY | May 9-10, 2017 | Invited speaker
