@@ -13,6 +13,7 @@ Open Health (HOLD) | Paris | Fall 2018 | co-organizer
 EO (HOLD) | Boston | June 28-30, 2018 | Invited
 CIFAR-GET (HOLD) | Toronto | June 4-5, 2018 | Invited
 Norwood Club Panel | NYC | March 20, 2018 | Invited Speaker
+Right to Science Working Group | Carnegie Council, NYC | Jan 29-30, 2018 | Invited Contributor
 [Global Community Biosummit](https://www.biosummit.org/) | MIT Cambridge MA | September 22-24, 2017 | co-organizer, speaker
 Partnering for Cures. Panel: "Conquering Clinical Research: Engagement Today for Treatments Tomorrow" [video](http://www.partneringforcures.org/boston/panel/7175) | Boston | July 12, 2017 | Invited moderator
 Learning from Patient Experience: New Frontiers in Patient-Partnered Research | Broad Institute, Cambridge MA | June 12-13 20-22, 2017 | Invited speaker
