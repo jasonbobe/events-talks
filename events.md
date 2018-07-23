@@ -9,9 +9,9 @@ co-Founder, DIYbio.org
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-Personalized Medicine World Conference (HOLD) | Santa Clara | Jan 21-23 | invited speaker
+Personalized Medicine World Conference (HOLD) | Santa Clara | Jan 21-23 2019 | invited speaker
 PRIMR Conference | San Diego | Nov 15-17 2018 | participant
-Global Community Bio Summit | Cambridge MA | Oct 26-28 | participant
+Global Community Bio Summit | Cambridge MA | Oct 26-28 2018| participant
 Participatory Medicine Conference | Boston | Oct 17 2018 | invited speaker
 Open Health Workshop (HOLD) | Paris | Oct 10-12 2018 | co-organizer
 EO | Boston | June 28-30, 2018 | Invited Speaker
