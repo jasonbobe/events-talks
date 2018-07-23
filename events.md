@@ -9,10 +9,14 @@ co-Founder, DIYbio.org
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
+Personalized Medicine World Conference (HOLD) | Santa Clara | Jan 21-23 | invited speaker
+PRIMR Conference | San Diego | Nov 15-17 2018 | participant
+Global Community Bio Summit | Cambridge MA | Oct 26-28 | participant
+Participatory Medicine Conference | Boston | Oct 17 2018 | invited speaker
 Open Health Workshop (HOLD) | Paris | Oct 10-12 2018 | co-organizer
-EO (HOLD) | Boston | June 28-30, 2018 | Invited Speaker
-CIFAR-GET (HOLD) | Toronto | June 4-5, 2018 | Invited Speaker
-Norwood Club Panel | NYC | March 20, 2018 | Invited Speaker
+EO | Boston | June 28-30, 2018 | Invited Speaker
+CIFAR-GET  | Toronto | June 4-5, 2018 | co-organizer
+Norwood Club Panel | NYC | March 20, 2018 | invited speaker
 The Rise of the New Bio-Citizen: Ethics, Legitimacy, and Responsible Governance in Citizen-Driven Biomedical Research | DC | March 12-13, 2018 | Invited Speaker
 Right to Science Working Group | Carnegie Council, NYC | Jan 29-30, 2018 | Invited Contributor
 [Global Community Biosummit](https://www.biosummit.org/) | MIT Cambridge MA | September 22-24, 2017 | co-organizer, speaker
