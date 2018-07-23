@@ -1,5 +1,5 @@
 ###Jason Bobe  
-Associate Professor, Icahn Institute at Mount Sinai  
+Associate Professor, Icahn School of Medicine at Mount Sinai  
 Executive Director Emeritus, Open Humans Foundation  
 co-Founder, DIYbio.org
 ###[@jasonbobe](https://twitter.com/jasonbobe)
