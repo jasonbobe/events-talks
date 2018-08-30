@@ -15,7 +15,8 @@ Global Community Bio Summit | Cambridge MA | Oct 26-28 2018| participant
 Grand Rounds | NYC | Oct 24 2018 | invited speaker
 Participatory Medicine Conference | Boston | Oct 17 2018 | invited speaker
 Open Health Workshop (HOLD) | Paris | Oct 10-12 2018 | co-organizer
-EO | Boston | June 28-30, 2018 | Invited Speaker
+LymeMind | NYC | Oct 2-3 2018 | invited speaker
+EO | Boston | June 28-30, 2018 | invited Speaker
 CIFAR-GET  | Toronto | June 4-5, 2018 | co-organizer
 Norwood Club Panel | NYC | March 20, 2018 | invited speaker
 The Rise of the New Bio-Citizen: Ethics, Legitimacy, and Responsible Governance in Citizen-Driven Biomedical Research | DC | March 12-13, 2018 | Invited Speaker
