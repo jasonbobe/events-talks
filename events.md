@@ -11,9 +11,10 @@ co-founder, PersonalGenomes.org
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
 Personalized Medicine World Conference (HOLD) | Santa Clara | Jan 21-23 2019 | invited speaker
+Lyme Innnovation Roundtable by HHS CTO | Washington DC | Dec 4 2018 | invited round table
 PRIMR Conference | San Diego | Nov 15-17 2018 | participant
 Global Community Bio Summit | Cambridge MA | Oct 26-28 2018| participant
-Grand Rounds | NYC | Oct 24 2018 | invited speaker
+Grand Rounds | NYC at ISMMS | Oct 24 2018 | invited speaker
 Participatory Medicine Conference | Boston | Oct 17 2018 | invited speaker
 Open Health Workshop (HOLD) | Paris | Oct 10-12 2018 | co-organizer
 LymeMind | NYC | Oct 2-3 2018 | invited speaker
