@@ -1,8 +1,10 @@
-###Jason Bobe  
-associate professor, Icahn School of Medicine at Mount Sinai  
+###Jason Bobe 
+
 executive director emeritus, Open Humans Foundation  
 co-founder, DIYbio.org
 co-founder, PersonalGenomes.org
+previously, associate professor, Icahn School of Medicine at Mount Sinai  
+
 ###[@jasonbobe](https://twitter.com/jasonbobe)
 
 
@@ -66,3 +68,36 @@ Partnering for Cures. Panel: R&D Remodel: Building Trust and Changing the Cultur
 [White House Precision Medicine & Privacy Roundtable]() | Washington DC | March 9-10, 2015 | Invited Contributor
 [Precision Medicine Initiative Announcement]() | E Wing, White House, Washington DC | January 30, 2015 | Invited Guest
 [Quantified Self Public Health Meeting]() | UCSD San Diego, CA | 2014 | Invited Speaker [video](https://vimeo.com/95938229)
+
+
+“Ask a Biosafety Expert: User-driven advisory service for the Do-It-Yourself Biology (DIYbio) Community” | American Biological Safety Association. Kansas City, MO. | October 23, 2013  | Invited speaker 
+
+“The Personal Genome Project and the Open Humans Ecosystem”. | Citizen Science: Think Tank on Citizen Engagement in Biomedical Research. Bethesda, MD. | May 23-24, 2013. | Invited speaker
+
+“Domestication of Human Genome Technologies” | The 15th Genomics Standards Consortium. Natcher Conference Center, NIH. Bethesda, MD | April 24, 2013 | Invited speaker
+
+“Standards for Reusable Genomic Resources” | Sage BioNetworks Commons Congress. San Francisco CA | April 20, 2013 | Invited speaker
+
+“DIYbio: extraordinary biotechnologies for everyday life.” | Small is the New Big: Designing Our Future at the Nanoscale, Humanscale, and Beyond. IDEAS Series Autodesk Gallery at One Market San Francisco, California | March 27-29, 2012. | Invited speaker
+
+“Open Consent Frameworks for Public Genomics” | Keystone Symposia. Complex Traits: Genomics and Computational Approaches. Breckenridge, CO. | February 20-25, 2012 | Invited speaker
+
+“Do It Yourself Biology” | Gaite Lyrique in Paris | November 2011 | Invited speaker
+
+“BioWeatherMap” | Presented at Design Night at the Autodesk Gallery in San Francisco | Sept 15, 2011 | Invited speaker
+
+“DIYbio: Origin, Activities & Scenarios for the Future.” | Presented to the Presidential Commission for the Study of Bioethical Issues. Philadelphia. | September 14, 2010 | Invited speaker
+
+“BioSecurity: How synthetic biology is changing the way we look at biology and biological threats.” | The Synthetic Biology Project. Woodrow Wilson International Center for Scholars. | March 11, 2010. | Invited speaker
+
+“Building Bridges Around Building Genomes” | Synthetic Genomics Workshop. San Francisco | Aug 4-5 2009. | Invited panelist. 
+
+“Health 2.0, From Clinics to Clicks: Shifting Power Online”. | TieCon East | May 2008 | Invited panelist
+
+“Instrumenting the medical enterprise for discovery: dissolving the barriers between clinical care and research” | First AMIA summit on translational bioinformatics | March 2008 | Panel moderator 
+
+“What the future holds” | Personalized medicine: breaking barriers and achieving results.  Harvard Medical School | October 11, 2007. | Invited speaker 
+
+“Citizen Science and Patient Communities on the Web.” | Dolan DNA Learning Center, Cold Spring Harbor Laboratories | October 2006. | Invited speaker
+
+“Digital Health – What’s in the Future”. | Moderated by Andy Kessler (author, The End of Medicine), Presented by Commonwealth Club of Silicon Valley, Computer History Museum, | September 2006 | Invited Panelist
