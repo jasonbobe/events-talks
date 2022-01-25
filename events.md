@@ -4,7 +4,7 @@
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-LymeMIND 2020 | Virtual | | October 2019 | Co-chair and speaker
+LymeMIND 2020 | Virtual | October 2020 | Co-chair and speaker
 LymeMIND 2019 | Virtual | October 2019 | Invited speaker
 [Right to Science](https://iuc.hr/programme/1306) | Dubrovnik, Croatia | May 18-22 2019 |Invited speaker
 Personalized Medicine World Conference (HOLD) | Santa Clara | Jan 21-23 2019 | invited speaker
