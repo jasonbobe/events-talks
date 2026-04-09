@@ -4,6 +4,7 @@
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
+BioKansas 2024 | Overland Park KS | August 2024 | Speaker
 LymeMIND 2020 | Virtual | October 2020 | Co-chair and speaker
 LymeMIND 2019 | Virtual | October 2019 | Invited speaker
 [Right to Science](https://iuc.hr/programme/1306) | Dubrovnik, Croatia | May 18-22 2019 |Invited speaker
